@@ -4,7 +4,7 @@ Vous trouverez dans ce git les résultats obtenus pour l'épreuve grandes donné
 
 ## Mise en route du projet 
 
-Vous pourrez lancer l'exécution des différentes cellules dans les fichiers, certaines cellules vous permettront de comparer la performance des fonctions et d'autres cellules vous permettront d'exécuter ces fonction sur le dataset complet en chronométrant le temps d'exécution. 
+Vous pourrez lancer l'exécution des différentes cellules dans les fichiers, certaines cellules vous permettront de comparer la performance des fonctions et d'autres cellules vous permettront d'exécuter ces fonctions sur le dataset complet en chronométrant le temps d'exécution. 
 
 ## Analyse des solutions
 
